@@ -1,10 +1,14 @@
 .contenidos{
     background-color: aqua;
-    margin-left: 5%;
+
     border-spacing: 10px;
+    border: 2px;
+    border-style: double;
 }
 .problemas{
     background-color: aqua;
+    border: 2px;
+    border-style: double;
 }
 
 .grado {
@@ -18,4 +22,7 @@
 font-size: 20px;
 
 
+}
+p{
+    margin: 2%;
 }
