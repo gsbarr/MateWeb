@@ -1,0 +1,160 @@
+[ 
+{
+    "anno":"1ro",
+    "niveles":[ 
+    {
+        "nivel":1,
+        "ejercicios":[
+            {
+                "codigoEjercicio":1,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    },
+    {
+        "nivel":2,
+        "ejercicios":[
+            {
+                "codigoEjercicio":2,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    }
+    ]
+},
+{
+    "anno":"2do",
+    "niveles":[ 
+    {
+        "nivel":1,
+        "ejercicios":[
+            {
+                "codigoEjercicio":3,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    },
+    {
+        "nivel":2,
+        "ejercicios":[
+            {
+                "codigoEjercicio":4,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    }
+    ]
+},
+{
+    "anno":"3ro",
+    "niveles":[ 
+    {
+        "nivel":1,
+        "ejercicios":[
+            {
+                "codigoEjercicio":5,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    },
+    {
+        "nivel":2,
+        "ejercicios":[
+            {
+                "codigoEjercicio":6,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    }
+    ]
+},
+{
+    "anno":"4to",
+    "niveles":[ 
+    {
+        "nivel":1,
+        "ejercicios":[
+            {
+                "codigoEjercicio":7,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    },
+    {
+        "nivel":2,
+        "ejercicios":[
+            {
+                "codigoEjercicio":8,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    }
+    ]
+},
+{
+    "anno":"5to",
+    "niveles":[ 
+    {
+        "nivel":1,
+        "ejercicios":[
+            {
+                "codigoEjercicio":9,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    },
+    {
+        "nivel":2,
+        "ejercicios":[
+            {
+                "codigoEjercicio":10,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    }
+    ]
+},
+{
+    "anno":"6to",
+    "niveles":[ 
+    {
+        "nivel":1,
+        "ejercicios":[
+            {
+                "codigoEjercicio":11,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    },
+    {
+        "nivel":2,
+        "ejercicios":[
+            {
+                "codigoEjercicio":12,
+                "titulo":"ejercicio numero 1 "
+            }
+        ]
+    }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
