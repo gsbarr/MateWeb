@@ -1,0 +1,28 @@
+[
+    {
+    "codigoEjercicio":"1",
+    "enunciado":"resolver esta ecuación de números imaginarios",
+    "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlvbDuo-se5ZbGppxWpA-XqOXfBEIeiHgFg&s",
+    "solucion":[
+        {
+        "variable":"x", 
+        "valor": 1 
+    },
+    {
+        "variable":"y", 
+        "valor": 11.5 
+    }]
+
+
+},
+{
+    "codigoEjercicio":"1",
+    "enunciado":"Resolver esta ecuación de números reales",
+    "imagen":"https://i.ytimg.com/vi/AM9oFUnoJho/maxresdefault.jpg",
+    "solucion":[
+        {
+            "variable":"x",
+            "valor": -4
+        }]
+}
+]
