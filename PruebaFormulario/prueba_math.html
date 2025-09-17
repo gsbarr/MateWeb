@@ -1,0 +1,39 @@
+<html>
+    <?php   include 'guardar_ecu.php';
+        ?>
+    <head>
+        <script src="https://editor.codecogs.com/eqneditor.api.min.js"></script>
+        <link rel="stylesheet" href="https://editor.codecogs.com/eqneditor.css"/>
+        <script>
+          window.onload = function () {
+            textarea = EqEditor.TextArea.link('latexInput')
+              .addOutput(new EqEditor.Output('output'))
+              .addHistoryMenu(new EqEditor.History('history'));
+          
+            EqEditor.Toolbar.link('toolbar').addTextArea(textarea);
+          }
+        </script>
+      </head>
+      <body>
+        <form action="guardar_ecu.php" method="GET">
+            <div id="equation-editor">
+              <div id="history"></div>
+              <div id="toolbar"></div>
+              <div id="latexInput" placeholder="Write Equation here..."></div>
+              <div id="equation-output">
+                <img id="output">
+              </div>
+              
+              <button onclick="guardar_ecu()"></button>
+              
+            </div>
+      </form>
+
+      <script>
+        function guardar_ecu(){
+          ruta = document.querySelector("#output");
+          document.location.href = "http://guardar_ecu.php?rutaImg=" + ruta;
+        }
+      </script>
+      </body>
+</html>
