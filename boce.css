@@ -1,14 +1,46 @@
 
+body {
+    background-color: #C6DCFF;
+}
 .caja img {
     max-width: 100%;
     max-height: 100%;
 
+
 }
 
 .caja {
-    height: 300px;
+    height: 250px;
     align-content: center;
+    background-color: #d9f0fb;
+
 }
 
+.titulo{
+    font-family: "karma";
+    font-size: 3rem;
+    align-items: center;
+    
+    
+}
 
+.nav-wrapper {
+    vertical-align:middle;
+    height: 48px !important;
+}
+
+.colorbarra{
+    height: 48px !important;
+    background-color: #032266;
+    margin-bottom: 2%;
+    
+}
+.modal-content img{
+    max-height: 100%;
+    max-width: 100%;
+
+}
+.modal-content{
+     background-color: #d9f0fb;
+}
 
